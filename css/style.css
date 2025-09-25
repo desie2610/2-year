@@ -1,0 +1,17 @@
+.grand-father {
+    background-color: rebeccapurple;
+    padding: 50px;
+    font-size: 30px;
+}
+
+.son {
+    background-color: red;
+    padding: 50px;
+    font-size: 30px;
+}
+
+.grand-son {
+    background-color: aqua;
+    padding: 50px;
+    font-size: 30px;
+}
